@@ -1,0 +1,10 @@
+# код  изд задания № 2
+number = int(input('цифра'))
+print(number)
+number_1 = int(input('цифра'))
+print(number_1)
+print(number+number_1)
+print(number-number_1)
+print(number/number_1)
+print(number*number_1)
+print(number**number_1)
